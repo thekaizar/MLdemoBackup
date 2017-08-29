@@ -3,4 +3,4 @@
 https://nbviewer.jupyter.org/github/laughingman1/MLDemo/blob/master/MLDemo.html
 
 # Recommendation Engine (Songs) demo
-https://nbviewer.jupyter.org/github/laughingman1/MLDemo/blob/master/Song recommender.html
+https://nbviewer.jupyter.org/github/laughingman1/MLDemo/blob/master/SongRecommender.html
